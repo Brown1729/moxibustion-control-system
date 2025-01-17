@@ -1,4 +1,4 @@
-# Moxibustion-Control-Systemm
+# Moxibustion-Control-System
 Largework of Java
 # How to use?
 1. Install MySQl database
